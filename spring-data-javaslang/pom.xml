@@ -11,7 +11,7 @@
         <groovy-eclipse-batch.version>2.3.7-01</groovy-eclipse-batch.version>
         <org.codehouse.groovy.version>2.4.8</org.codehouse.groovy.version>
         <javaslang.version>2.0.5</javaslang.version>
-        <spring-boot.version>1.5.1.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.11.RELEASE</spring-boot.version>
         <spring-context.version>4.3.6.RELEASE</spring-context.version>
         <spring-core.version>4.3.6.RELEASE</spring-core.version>
         <spring-test.version>4.3.6.RELEASE</spring-test.version>
